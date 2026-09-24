@@ -1,0 +1,13 @@
+DATA TERMS
+
+The individual-level survey data (data/raw_responses.xlsx) are NOT included in
+this repository and are NOT covered by the MIT licence that applies to the code.
+
+Human-participants data were collected under the study's ethics approval. Because
+the survey records childhood country, refugee-camp residence, arrest and
+displacement history, and political-expression items for identifiable minority
+populations, the data are available from the corresponding author on reasonable
+request, subject to that approval.
+
+The aggregate results in output/tables/ and output/figures/ contain no
+individual-level records and are released with the code.

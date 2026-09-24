@@ -1,0 +1,71 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below, together with the article."
+title: "Navigating Success Under Occupation: analysis code"
+abstract: >-
+  R analysis pipeline for the cross-sectional survey study "Navigating Success
+  Under Occupation: The Long-Term Effects of Childhood Experiences in Palestine on
+  Mental Health, Education, and Career Prospects". Reproduces every table and
+  figure in the manuscript from the survey export.
+type: software
+version: 1.0.0
+date-released: 2026-09-25
+license: MIT
+keywords:
+  - military occupation
+  - Palestine
+  - educational disruption
+  - structural equation modelling
+  - survey
+authors:
+  - family-names: "Al Jabry"
+    given-names: "Lina K."
+    orcid: "https://orcid.org/0009-0000-3524-0432"
+    affiliation: "College of Medicine, Hebron University, Hebron, Palestine"
+  - family-names: "Nasher"
+    given-names: "Yousef M."
+    orcid: "https://orcid.org/0009-0001-3704-3149"
+    affiliation: "Faculty of Medicine and Health Sciences, Sana'a University, Sana'a, Yemen"
+  - family-names: "Alghzawi"
+    given-names: "Hamzah M."
+    orcid: "https://orcid.org/0000-0002-3569-6752"
+    affiliation: "School of Nursing, Tennessee State University, Nashville, Tennessee, USA"
+  - family-names: "Amin"
+    given-names: "Rizwana"
+    orcid: "https://orcid.org/0000-0002-3262-6329"
+    affiliation: "College of Humanities, Effat University, Jeddah, Saudi Arabia"
+  - family-names: "Ibrahim"
+    given-names: "Fatma M."
+    affiliation: "Faculty of Nursing, Mansoura University, Mansoura, Egypt; RAK Medical and Health Sciences University, Ras Al Khaimah, UAE"
+  - family-names: "Whdan"
+    given-names: "Ibtihaj"
+    affiliation: "College of Medicine, Hebron University, Hebron, Palestine"
+  - family-names: "Abuznaid"
+    given-names: "Osama F."
+    orcid: "https://orcid.org/0009-0002-4284-3498"
+    affiliation: "Faculty of Medicine, Arab American University, Jenin, Palestine"
+  - family-names: "Al-Manasrah"
+    given-names: "Amro K."
+    orcid: "https://orcid.org/0009-0003-0214-0808"
+    affiliation: "College of Medicine, Hebron University, Hebron, Palestine"
+  - family-names: "El-Sayed"
+    given-names: "Naglaa"
+    orcid: "https://orcid.org/0000-0003-3174-1795"
+    affiliation: "Faculty of Nursing, Cairo University, Cairo, Egypt"
+  - family-names: "Hamad"
+    given-names: "Samia"
+    orcid: "https://orcid.org/0009-0004-4099-7359"
+    affiliation: "Faculty of Medicine, An-Najah National University, Nablus, Palestine"
+  - family-names: "Alghazal"
+    given-names: "Abubaker"
+    orcid: "https://orcid.org/0009-0005-1205-8220"
+    affiliation: "Faculty of Medicine, University of Benghazi, Benghazi, Libya"
+  - family-names: "Issa"
+    given-names: "Yaser"
+    affiliation: "College of Medicine, Hebron University, Hebron, Palestine"
+  - family-names: "Manasra"
+    given-names: "Janaa"
+    affiliation: "College of Medicine, Hebron University, Hebron, Palestine"
+  - family-names: "Moftah"
+    given-names: "Ahmed Wael"
+    orcid: "https://orcid.org/0009-0007-5413-1187"
+    affiliation: "Faculty of Medicine, King Salman International University, South Sinai, Egypt"
