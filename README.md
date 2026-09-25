@@ -61,7 +61,7 @@ To reproduce the analysis, place the survey export at `data/raw_responses.xlsx`
 Al Jabry LK, Nasher YM, Alghzawi HM, Amin R, Ibrahim FM, Whdan I, Abuznaid OF,
 Al-Manasrah AK, El-Sayed N, Hamad S, Alghazal A, Issa Y, Manasra J, Moftah AW.
 *Navigating Success Under Occupation* — analysis code (version 1.0.0)
-[Software]. Zenodo. https://doi.org/[Zenodo DOI]. Citation metadata are in
+[Software].(https://doi.org/10.5281/zenodo.22949171). Citation metadata are in
 `CITATION.cff`.
 
 ## How to reproduce
